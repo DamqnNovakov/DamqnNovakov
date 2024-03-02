@@ -2,14 +2,14 @@
 
 Hey there! I'm Damqn Novakov, a passionate full-stack web developer with a focus on crafting dynamic and responsive web applications. With a solid background in JavaScript, along with expertise in frameworks like React.js and Next.js, I thrive on bringing ideas to life through clean and efficient code.
 
-[![Damqn Novakov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Damqn Novakov&show_icons=true&theme=radical)](https://github.com/Damqn Novakov)
+[![Damqn's gitHub stats](https://github-readme-stats.vercel.app/api?username=DamqnNovakov)](https://github.com/DamqnNovakov/github-readme-stats)
 
 Skills:
 
-JavaScript
-React.js
-Next.js
-HTML
+JavaScript,
+React.js,
+Next.js,
+HTML,
 CSS
 
 
