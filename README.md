@@ -11,6 +11,8 @@ React.js
 Next.js
 HTML
 CSS
+
+
 About Me:
 I love diving deep into the world of web development, constantly exploring new technologies and best practices to stay ahead in this ever-evolving field. Whether it's crafting intuitive user interfaces or architecting robust backend systems, I'm always up for a challenge.
 
